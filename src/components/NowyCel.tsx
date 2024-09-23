@@ -4,7 +4,7 @@ type NowyCelProps = {
   onDodajCel: (cel: string, podsumowanie: string) => void;
 };
 
-// Zmieniono nazwę komponentu z NewGoal na NowyCel
+
 export default function NowyCel({ onDodajCel }: NowyCelProps) {
   const celRef = useRef<HTMLInputElement>(null);
   const podsumowanieRef = useRef<HTMLInputElement>(null);
