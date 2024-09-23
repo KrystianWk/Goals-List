@@ -1,5 +1,6 @@
 # React + TypeScript + Vite
 
-![image](https://github.com/user-attachments/assets/91ff89dc-30f1-4a8a-a811-a7bac8d216d8)
+![image](https://github.com/user-attachments/assets/9024d1dc-5827-4a58-85d2-e539188f6c64)
+
 
 
